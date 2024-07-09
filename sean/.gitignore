@@ -1,0 +1,10 @@
+# 0704/tcp 디렉토리 내의 실행 파일
+0704/tcp/client
+0704/tcp/server
+
+# 0704/udp 디렉토리 내의 실행 파일
+0704/udp/client
+0704/udp/server
+
+# 모든 .o 파일
+*.o
